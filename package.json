@@ -1,0 +1,19 @@
+{
+  "title": "Play & pause youtube video",
+  "name": "playpausevideo",
+  "version": "1.0.0",
+  "description": "Play & pause for youtube video addon",
+  "main": "index.js",
+  "author": "Iteratif SARL",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ],
+  "web_accessible_resources": [
+	"./play.png"
+  ]
+}
